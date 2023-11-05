@@ -13,7 +13,7 @@ LearnEnglish is a language learning application developed in Java that aims to h
 ## Installation
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/LearnEnglish.git
+git clone https://github.com/ofir10/LearnEnglish.git
 ```
 
 2. Open the project in Android Studio.
