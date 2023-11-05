@@ -1,0 +1,41 @@
+﻿acceptance
+accepted
+address
+address
+adolescence
+adolescent
+advantage
+advantageous
+advice
+advise
+age
+aged
+aggression
+aggressive
+agriculture
+ahead
+alert
+amateur
+announce
+announcement
+&
+קבלה; הסכמה
+מוסכם, מקובל
+כתובת
+להפנות; לנאום בפני
+גיל ההתבגרות
+מתבגר, בגיל ההתבגרות
+יתרון, תועלת
+מועיל
+עצה
+לייעץ
+להזדקן; גיל; עידן, תקופה
+זקן “Aged” is older than “old”.
+תוקפנות
+תוקפני, אגרסיבי
+חקלאות
+לִפְנֵי, מראש; קדימה
+להזהיר; עירני
+חובבן; חובבני
+להכריז, להודיע
+הכרזה, הודעה
